@@ -3,12 +3,12 @@ entries:
   react-tutorial:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-23T14:31:02.6139957+09:00"
+    created: "2021-12-23T14:45:50.6865693+09:00"
     description: A Helm chart for Kubernetes
-    digest: 4e6439a1c21f36a877ddd8bfe49de3b1c5dbe3c91b82b76718612863dda50023
+    digest: 5b521955a9f3a93903689353863949581bb23cab5da51d5e93a39ab4079b7fc7
     name: react-tutorial
     type: application
     urls:
     - react-tutorial-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-23T14:31:02.6111643+09:00"
+generated: "2021-12-23T14:45:50.6855681+09:00"
